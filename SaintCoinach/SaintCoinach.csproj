@@ -108,6 +108,7 @@
     <Compile Include="Graphics\Pcb\PcbBlockEntry.cs" />
     <Compile Include="Graphics\Pcb\PcbFile.cs" />
     <Compile Include="Xiv\ActionTransient.cs" />
+    <Compile Include="Xiv\SubmarineExploration.cs" />
     <Compile Include="Xiv\CharaMakeCustomize.cs" />
     <Compile Include="Xiv\CharaMakeType.cs" />
     <Compile Include="Xiv\CompanionTransient.cs" />
