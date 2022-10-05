@@ -63,5 +63,7 @@ namespace SaintCoinach.Text {
         RubyCharaters   = 0x4A,     // Mostly used on Japanese, which means 
         ZeroPaddedValue = 0x50,
         Unknown60       = 0x60,     // TODO: Used as prefix in Gold Saucer announcements.
+        Postposition    = 0x0D,
+        Postposition2   = 0x0E,
     }
 }
