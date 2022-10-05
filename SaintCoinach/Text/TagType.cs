@@ -62,5 +62,7 @@ namespace SaintCoinach.Text {
         UIGlow          = 0x49,
         ZeroPaddedValue = 0x50,
         Unknown60       = 0x60,     // TODO: Used as prefix in Gold Saucer announcements.
+        Postposition    = 0x0D,
+        Postposition2   = 0x0E,
     }
 }
