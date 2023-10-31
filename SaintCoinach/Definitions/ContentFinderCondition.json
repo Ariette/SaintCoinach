@@ -110,19 +110,19 @@
       "name": "AllowUndersized"
     },
     {
-      "index": 22,
+      "index": 23,
       "name": "AllowReplacement"
     },
     {
-      "index": 24,
+      "index": 25,
       "name": "AllowExplorerMode"
     },
     {
-      "index": 30,
+      "index": 31,
       "name": "HighEndDuty"
     },
     {
-      "index": 35,
+      "index": 36,
       "name": "DutyRecorderAllowed"
     },
     {
